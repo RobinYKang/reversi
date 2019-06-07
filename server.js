@@ -171,6 +171,7 @@ io.sockets.on('connection', function (socket) {
 											}
 										});
 
+
 								/* send_message command */
 								/* payload:
 									{

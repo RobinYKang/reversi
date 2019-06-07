@@ -339,6 +339,7 @@ if(socket.id == payload.game.player_white.socket){
           }}(payload.game.last_move_time)
           , 1000);
 
+
 /* Animate changes to the board */
 
 var blacksum = 0;
